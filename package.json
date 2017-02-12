@@ -14,8 +14,7 @@
         "onCommand:extension.sayHello"
     ],
     "main": "./out/src/extension",
-    "contributes": {
-    },
+    "contributes": {},
     "scripts": {
         "vscode:prepublish": "tsc -p ./",
         "compile": "tsc -watch -p ./",
@@ -23,19 +22,26 @@
         "test": "node ./node_modules/vscode/bin/test"
     },
     "devDependencies": {
-        "typescript": "^2.0.3",
-        "vscode": "^1.0.0",
-        "mocha": "^2.3.3",
+        "@types/cheerio": "^0.17.31",
+        "@types/mocha": "^2.2.32",
         "@types/node": "^6.0.40",
-        "@types/mocha": "^2.2.32"
+        "cheerio": "^0.22.0",
+        "mocha": "^2.3.3",
+        "typescript": "^2.0.3",
+        "vscode": "^1.0.0"
     },
-      "extensionDependencies": [
+    "extensionDependencies": [
+        "Orta.vscode-danger",
         "eg2.tslint",
-        "christian-kohler.npm-intellisense",
-		"Orta.vscode-danger",
-		"djabraham.vscode-yaml-validation",
-		"vsmobile.vscode-react-native",
-		"Orta.vscode-react-native-storybooks",
-        "Orta.vscode-jest"
-  ]
+        "djabraham.vscode-yaml-validation",
+        "vsmobile.vscode-react-native",
+        "Orta.vscode-react-native-storybooks",
+        "Orta.vscode-jest",
+        "swyphcosmo.spellchecker"
+    ],
+    "dependencies": {
+        "@types/node-fetch": "^1.6.7",
+        "node-fetch": "^1.6.3",
+        "ts-node": "^2.1.0"
+    }
 }
