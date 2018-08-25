@@ -1,6 +1,6 @@
 # VSCode + Artsy
 
-This extension pack consolidates all of our recommended VS Code extensions.
+This extension pack consolidates all of our recommended VS Code extensions. You only need to install this extension, and then all of the other extensions we use will be managed for you.
 
 ## How do I install it?
 
