@@ -60,13 +60,16 @@ The docs from Microsoft are good here, use [them for reference](https://code.vis
 
 1. You will need to set up a visualstudio.com account
 1. You will need to have that email added to the vscode extension publishing team.
-  1. Log in to [manage users here](https://marketplace.visualstudio.com/manage/publishers/artsy)
+    1. Log in to [manage users here](https://marketplace.visualstudio.com/manage/publishers/artsy)
 1. You then log in to the Artsy publisher account, using your personal access token from your visualstudios.com account:
-  ```sh $ npx vsce login Artsy
-  npx: installed 63 in 4.231s
-  Personal Access Token for publisher 'Artsy': ****************************************************
+    
+    ```sh 
+    $ npx vsce login Artsy
+    npx: installed 63 in 4.231s
+    Personal Access Token for publisher 'Artsy': ****************************************************
 
-  Authentication successful. Found publisher 'Artsy Open Source'.
-  ```
+    Authentication successful. Found publisher 'Artsy Open Source'.
+    ```
+
 1. Change the package.json version number
-1, Run `npx vsce publish`
+1. Run `npx vsce publish`
