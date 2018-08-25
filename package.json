@@ -2,8 +2,13 @@
     "name": "artsy-studio-extension-pack",
     "displayName": "Artsy Studio Extension Pack",
     "description": "The Artsy recommended extensions for working in our front-end/platform stacks",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "publisher": "Artsy",
+    "preview": true,
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/artsy/vscode-artsy.git"
+    },
     "engines": {
         "vscode": "^1.26.0"
     },

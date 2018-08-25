@@ -68,3 +68,5 @@ The docs from Microsoft are good here, use [them for reference](https://code.vis
 
   Authentication successful. Found publisher 'Artsy Open Source'.
   ```
+1. Change the package.json version number
+1, Run `npx vsce publish`
