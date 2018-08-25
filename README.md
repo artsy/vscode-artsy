@@ -2,7 +2,15 @@
 
 This extension pack consolidates all of our recommended VS Code extensions. You only need to install this extension, and then all of the other extensions we use will be managed for you.
 
+### Meta
+
+* **State:** production
+* **Production:** [VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=Artsy.artsy-studio-extension-pack)
+* **Point People:** [@orta](https://github.com/orta)
+
 ## How do I install it?
+
+Install it from the [marketplace](https://marketplace.visualstudio.com/items?itemName=Artsy.artsy-studio-extension-pack), or you can install it from the CLI:
 
 ```sh
 code --install-extension Artsy.artsy-studio-extension-pack
