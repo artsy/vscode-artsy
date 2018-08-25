@@ -1,5 +1,9 @@
 # Change Log
 
+# 1.0.2
+
+Adds an icon
+
 # 1.0.1
 
 Fixes the link to this repo in the extension.

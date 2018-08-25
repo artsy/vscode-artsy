@@ -2,7 +2,7 @@
     "name": "artsy-studio-extension-pack",
     "displayName": "Artsy Studio Extension Pack",
     "description": "The Artsy recommended extensions for working in our front-end/platform stacks",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "publisher": "Artsy",
     "preview": true,
     "repository": {
@@ -16,6 +16,7 @@
     "engines": {
         "vscode": "^1.26.0"
     },
+    "icon": "icon.png",
     "extensionPack": [ 
         "Orta.vscode-danger",
         "misogi.ruby-rubocop", 
