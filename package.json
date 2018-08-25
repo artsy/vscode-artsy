@@ -1,0 +1,44 @@
+{
+    "name": "artsy-studio-extension-pack",
+    "displayName": "Artsy Studio Extension Pack",
+    "description": "The Artsy recommended extensions for working in our front-end/platform stacks",
+    "version": "1.0.0",
+    "publisher": "Artsy",
+    "engines": {
+        "vscode": "^1.26.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionPack": [ 
+        "Orta.vscode-danger",
+        "misogi.ruby-rubocop", 
+        "rebornix.ruby", 
+
+        "mjmcloug.vscode-elixir", 
+
+        "Orta.vscode-react-native-storybooks", 
+        "Orta.vscode-ios-common-files", 
+
+        "jpoissonnier.vscode-styled-components", 
+        "mikestead.dotenv", 
+        "ms-vscode.typescript-javascript-grammar", 
+        "Prisma.vscode-graphql", 
+        "vsmobile.vscode-react-native", 
+
+        "christian-kohler.npm-intellisense", 
+        "eg2.tslint", 
+        "esbenp.prettier-vscode", 
+
+        "ms-vsliveshare.vsliveshare", 
+        "ms-vsliveshare.vsliveshare-audio", 
+
+        "mrmlnc.vscode-scss", 
+        "sysoev.language-stylus", 
+
+        "nhoizey.gremlins", 
+        "streetsidesoftware.code-spell-checker", 
+        "wayou.vscode-todo-highlight", 
+        "ziyasal.vscode-open-in-github"
+    ]
+}
