@@ -9,12 +9,13 @@
         "type": "git",
         "url": "https://github.com/artsy/vscode-artsy.git"
     },
+    "keywords": [
+        "artsy",
+        "studio",
+    ],
     "engines": {
         "vscode": "^1.26.0"
     },
-    "categories": [
-        "Extension Packs"
-    ],
     "extensionPack": [ 
         "Orta.vscode-danger",
         "misogi.ruby-rubocop", 
