@@ -1,8 +1,8 @@
 {
     "name": "artsy-studio-extension-pack",
-    "displayName": "Artsy Studio Extension Pack",
+    "displayName": "Artsy Omakase Extension Pack",
     "description": "The Artsy recommended extensions for working in our front-end/platform stacks",
-    "version": "1.0.2",
+    "version": "1.1.0",
     "publisher": "Artsy",
     "preview": true,
     "repository": {
@@ -44,7 +44,6 @@
         "sysoev.language-stylus", 
 
         "nhoizey.gremlins", 
-        "streetsidesoftware.code-spell-checker", 
         "wayou.vscode-todo-highlight", 
         "ziyasal.vscode-open-in-github"
     ]

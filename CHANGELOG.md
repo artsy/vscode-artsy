@@ -43,7 +43,6 @@ Initial commit, adds:
 - [Live Share](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare)
 - [Live Share Audio](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare-audio)
 - [Gremlins](https://github.com/nhoizey/vscode-gremlins) (highlights unwanted characters in code)
-- [Code Spell Checker](https://github.com/Jason-Rev/vscode-spell-checker)
 - [TODO: Highlight](https://marketplace.visualstudio.com/items?itemName=wayou.vscode-todo-highlight)
 - [Open in GitHub](https://marketplace.visualstudio.com/items?itemName=ziyasal.vscode-open-in-github)
 
