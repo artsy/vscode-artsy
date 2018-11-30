@@ -2,7 +2,7 @@
     "name": "artsy-studio-extension-pack",
     "displayName": "Artsy Omakase Extension Pack",
     "description": "The Artsy recommended extensions for working in our front-end/platform stacks",
-    "version": "1.1.0",
+    "version": "1.2.0",
     "publisher": "Artsy",
     "preview": true,
     "repository": {
@@ -30,7 +30,7 @@
         "jpoissonnier.vscode-styled-components", 
         "mikestead.dotenv", 
         "ms-vscode.typescript-javascript-grammar", 
-        "Prisma.vscode-graphql", 
+        "apollographql.vscode-apollo",
         "vsmobile.vscode-react-native", 
 
         "christian-kohler.npm-intellisense", 
