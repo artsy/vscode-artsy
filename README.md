@@ -24,7 +24,7 @@ The only thing that really matters here is the [`package.json`](/package.json). 
 
 - [Styled Components](https://marketplace.visualstudio.com/items?itemName=jpoissonnier.vscode-styled-components)
 - [Dotenv](https://github.com/mikestead/vscode-dotenv)
-- [GraphQL](https://github.com/prisma/vscode-graphql)
+- [GraphQL](https://github.com/apollographql/apollo-tooling)
 - [NPM intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.npm-intellisense)
 - [TSLint](https://marketplace.visualstudio.com/items?itemName=eg2.tslint)
 - [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)

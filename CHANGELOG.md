@@ -1,5 +1,9 @@
 # Change Log
 
+# 1.2.0
+
+Swaps out the Prisma GraphQL extension with the Apollo one, after we updated it for Relay - alloy #3
+
 # 1.0.2
 
 Adds an icon
