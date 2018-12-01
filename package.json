@@ -34,7 +34,7 @@
         "vsmobile.vscode-react-native", 
 
         "christian-kohler.npm-intellisense", 
-        "eg2.tslint", 
+        "ms-vscode.vscode-typescript-tslint-plugin", 
         "esbenp.prettier-vscode", 
 
         "ms-vsliveshare.vsliveshare", 
