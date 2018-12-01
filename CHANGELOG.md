@@ -1,5 +1,7 @@
 # Change Log
 
+Updates to a [new TSLint extension](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-typescript-tslint-plugin).
+
 # 1.2.0
 
 Swaps out the Prisma GraphQL extension with the Apollo one, after we updated it for Relay - alloy #3
