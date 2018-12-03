@@ -28,6 +28,7 @@ The only thing that really matters here is the [`package.json`](/package.json). 
 - [NPM intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.npm-intellisense)
 - [TSLint](https://marketplace.visualstudio.com/items?itemName=eg2.tslint)
 - [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
+- [stylelint](https://marketplace.visualstudio.com/items?itemName=shinnn.stylelint)
 - [TypeScript Grammar](https://marketplace.visualstudio.com/items?itemName=ms-vscode.typescript-javascript-grammar)
 
 ### React Native
