@@ -1,5 +1,9 @@
 # Change Log
 
+# 1.3.0
+
+- Adds stylelint extension - [see the RFC](https://github.com/artsy/vscode-artsy/issues/2 ) orta 
+
 # 1.2.0
 
 Swaps out the Prisma GraphQL extension with the Apollo one, after we updated it for Relay - alloy #3

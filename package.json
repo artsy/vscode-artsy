@@ -32,6 +32,7 @@
         "ms-vscode.typescript-javascript-grammar", 
         "apollographql.vscode-apollo",
         "vsmobile.vscode-react-native", 
+        "shinnn.stylelint",
 
         "christian-kohler.npm-intellisense", 
         "eg2.tslint", 
