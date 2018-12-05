@@ -30,7 +30,7 @@
         "jpoissonnier.vscode-styled-components", 
         "mikestead.dotenv", 
         "ms-vscode.typescript-javascript-grammar", 
-        "Artsy.vscode-apollo",
+        "apollographql.vscode-apollo",
         "vsmobile.vscode-react-native", 
         "shinnn.stylelint",
 
