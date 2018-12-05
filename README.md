@@ -81,3 +81,8 @@ The docs from Microsoft are good here, use [them for reference](https://code.vis
 
 1. Change the package.json version number
 1. Run `npx vsce publish`
+
+## Adding More People to Deploy
+
+Go to [TFS settings](https://artsy-open-source.visualstudio.com/_settings/users) and add them as someone with rights
+to package management for extensions.
