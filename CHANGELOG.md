@@ -1,5 +1,9 @@
 # Change Log
 
+# 1.3.1
+
+Switch to use our fork of vscode-apollo while we wait for movement on https://github.com/apollographql/apollo-tooling/pull/800 - alloy
+
 # 1.3.0
 
 - Adds stylelint extension - [see the RFC](https://github.com/artsy/vscode-artsy/issues/2 ) orta 
