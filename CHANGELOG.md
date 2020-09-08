@@ -1,5 +1,9 @@
 # Change Log
 
+# 1.3.1
+
+- Removes unneeded extension that was causing problems - ash
+
 # 1.3.0
 
 - Adds stylelint extension - [see the RFC](https://github.com/artsy/vscode-artsy/issues/2 ) orta 
