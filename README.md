@@ -25,8 +25,9 @@ The only thing that really matters here is the [`package.json`](/package.json). 
 - [Styled Components](https://marketplace.visualstudio.com/items?itemName=jpoissonnier.vscode-styled-components)
 - [Dotenv](https://github.com/mikestead/vscode-dotenv)
 - [GraphQL](https://github.com/apollographql/apollo-tooling)
+- [Relay](https://marketplace.visualstudio.com/items?itemName=meta.relay)
 - [NPM intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.npm-intellisense)
-- [TSLint](https://marketplace.visualstudio.com/items?itemName=eg2.tslint)
+- [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
 - [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
 - [stylelint](https://marketplace.visualstudio.com/items?itemName=shinnn.stylelint)
 - [TypeScript Grammar](https://marketplace.visualstudio.com/items?itemName=ms-vscode.typescript-javascript-grammar)
@@ -34,8 +35,6 @@ The only thing that really matters here is the [`package.json`](/package.json). 
 ### React Native
 
 - [React Native Tools](https://marketplace.visualstudio.com/items?itemName=vsmobile.vscode-react-native)
-- [React Native Storybooks](https://marketplace.visualstudio.com/items?itemName=Orta.vscode-react-native-storybooks)
-- [iOS Common Files](https://marketplace.visualstudio.com/items?itemName=Orta.vscode-ios-common-files)
 
 ### Ruby 
 
