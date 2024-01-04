@@ -1,5 +1,12 @@
 # Change Log
 
+# 1.4.0
+
+- Remove storybook extension - mounir
+- Remove ios-common-files extension - mounir
+- Add relay extension - mounir
+- Replace tslint with eslint - mounir
+
 # 1.3.1
 
 - Removes unneeded extension that was causing problems - ash

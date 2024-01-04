@@ -2,7 +2,7 @@
     "name": "artsy-studio-extension-pack",
     "displayName": "Artsy Omakase Extension Pack",
     "description": "The Artsy recommended extensions for working in our front-end/platform stacks",
-    "version": "1.3.1",
+    "version": "1.4.0",
     "publisher": "Artsy",
     "preview": true,
     "repository": {
@@ -22,19 +22,13 @@
         "misogi.ruby-rubocop", 
         "rebornix.ruby", 
 
-        "mjmcloug.vscode-elixir", 
-
-        "Orta.vscode-react-native-storybooks", 
-        "Orta.vscode-ios-common-files", 
 
         "jpoissonnier.vscode-styled-components", 
         "mikestead.dotenv", 
-        "apollographql.vscode-apollo",
         "vsmobile.vscode-react-native", 
         "shinnn.stylelint",
 
         "christian-kohler.npm-intellisense", 
-        "eg2.tslint", 
         "esbenp.prettier-vscode", 
 
         "ms-vsliveshare.vsliveshare", 
@@ -45,6 +39,10 @@
 
         "nhoizey.gremlins", 
         "wayou.vscode-todo-highlight", 
-        "ziyasal.vscode-open-in-github"
+        "ziyasal.vscode-open-in-github",
+
+        "dbaeumer.vscode-eslint",
+        "meta.relay"
+
     ]
 }
