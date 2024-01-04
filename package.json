@@ -22,11 +22,9 @@
         "misogi.ruby-rubocop", 
         "rebornix.ruby", 
 
-        "mjmcloug.vscode-elixir", 
 
         "jpoissonnier.vscode-styled-components", 
         "mikestead.dotenv", 
-        "apollographql.vscode-apollo",
         "vsmobile.vscode-react-native", 
         "shinnn.stylelint",
 
