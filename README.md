@@ -64,6 +64,7 @@ The only thing that really matters here is the [`package.json`](/package.json). 
 
 ## Deployment
 
+### Using the terminal
 The docs from Microsoft are good here, use [them for reference](https://code.visualstudio.com/docs/extensions/publish-extension#_login-to-a-publisher).
 
 1. You will need to set up a visualstudio.com account
@@ -81,6 +82,22 @@ The docs from Microsoft are good here, use [them for reference](https://code.vis
 
 1. Change the package.json version number
 1. Run `npx vsce publish`
+
+### Using the Visual Studio Marketplace 
+
+1. Connect to mobile@ Visual Studio account. 
+2. Navigate to the directory of the extension
+3. Run `npx vsce package`. This will create a `.vsix` file in the root of the extension directory
+4. Go to the [marketplace](https://marketplace.visualstudio.com/manage/publishers/artsy). Tap on the Meatballs Icon (...) next to to `Artsy Omakase Extension Pack` and click `Update`.
+5. Select the `.vsix` file you just created.
+
+It should take only a few minutes for the extension to be published. 
+
+<details>
+<summary>Publishing an update</summary>
+
+  ![publishing-an-update](./screenshots/publishing_an_update.gif/)
+</details>
 
 ## Adding More People to Deploy
 
