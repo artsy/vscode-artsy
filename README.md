@@ -31,6 +31,7 @@ The only thing that really matters here is the [`package.json`](/package.json). 
 - [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
 - [stylelint](https://marketplace.visualstudio.com/items?itemName=shinnn.stylelint)
 - [TypeScript Grammar](https://marketplace.visualstudio.com/items?itemName=ms-vscode.typescript-javascript-grammar)
+- [Pretty TypeScript Errors](https://marketplace.visualstudio.com/items?itemName=yoavbls.pretty-ts-errors)
 
 ### React Native
 

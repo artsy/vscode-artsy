@@ -42,7 +42,8 @@
         "ziyasal.vscode-open-in-github",
 
         "dbaeumer.vscode-eslint",
-        "meta.relay"
+        "meta.relay",
 
+        "yoavbls.pretty-ts-errors"
     ]
 }
