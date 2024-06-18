@@ -1,4 +1,7 @@
 # Change Log
+# 1.5.0
+
+- Add Pretty Typescript Errors extension - mounir
 
 # 1.4.0
 
@@ -40,6 +43,7 @@ Initial commit, adds:
 - [TSLint](https://marketplace.visualstudio.com/items?itemName=eg2.tslint)
 - [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
 - [TypeScript Grammar](https://marketplace.visualstudio.com/items?itemName=ms-vscode.typescript-javascript-grammar)
+- [Pretty TypeScript Errors](https://marketplace.visualstudio.com/items?itemName=yoavbls.pretty-ts-errors)
 
 ### React Native
 
