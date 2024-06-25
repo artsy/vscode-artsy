@@ -6,7 +6,7 @@ This extension pack consolidates all of our recommended VS Code extensions. You 
 
 * **State:** production
 * **Production:** [VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=Artsy.artsy-studio-extension-pack)
-* **Point People:** 
+* **Point People:** [@MounirDhahri](https://github.com/mounirdhahri)
 
 ## How do I install it?
 
