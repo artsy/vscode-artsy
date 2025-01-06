@@ -2,7 +2,7 @@
     "name": "artsy-studio-extension-pack",
     "displayName": "Artsy Omakase Extension Pack",
     "description": "The Artsy recommended extensions for working in our front-end/platform stacks",
-    "version": "1.5.0",
+    "version": "1.6.0",
     "publisher": "Artsy",
     "preview": true,
     "repository": {
@@ -44,6 +44,8 @@
         "dbaeumer.vscode-eslint",
         "meta.relay",
 
-        "yoavbls.pretty-ts-errors"
+        "yoavbls.pretty-ts-errors",
+
+        "biomejs.biome"
     ]
 }
