@@ -1,6 +1,10 @@
 # Change Log
 # 1.5.0
 
+- Add Biome extension - mounir
+
+# 1.5.0
+
 - Add Pretty Typescript Errors extension - mounir
 
 # 1.4.0

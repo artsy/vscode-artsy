@@ -22,16 +22,17 @@ The only thing that really matters here is the [`package.json`](/package.json). 
 
 #### Artsy Studio
 
-- [Styled Components](https://marketplace.visualstudio.com/items?itemName=jpoissonnier.vscode-styled-components)
+- [Biome](https://marketplace.visualstudio.com/items?itemName=biomejs.biome)
 - [Dotenv](https://github.com/mikestead/vscode-dotenv)
-- [GraphQL](https://github.com/apollographql/apollo-tooling)
-- [Relay](https://marketplace.visualstudio.com/items?itemName=meta.relay)
-- [NPM intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.npm-intellisense)
 - [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
+- [GraphQL](https://github.com/apollographql/apollo-tooling)
+- [NPM intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.npm-intellisense)
 - [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
+- [Pretty TypeScript Errors](https://marketplace.visualstudio.com/items?itemName=yoavbls.pretty-ts-errors)
+- [Relay](https://marketplace.visualstudio.com/items?itemName=meta.relay)
+- [Styled Components](https://marketplace.visualstudio.com/items?itemName=jpoissonnier.vscode-styled-components)
 - [stylelint](https://marketplace.visualstudio.com/items?itemName=shinnn.stylelint)
 - [TypeScript Grammar](https://marketplace.visualstudio.com/items?itemName=ms-vscode.typescript-javascript-grammar)
-- [Pretty TypeScript Errors](https://marketplace.visualstudio.com/items?itemName=yoavbls.pretty-ts-errors)
 
 ### React Native
 
